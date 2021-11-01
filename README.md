@@ -11,3 +11,6 @@
 - [x] Your web scraper should report the number of citations needed. Done 
 - [x] Report function must be named get_citations_needed_report. Done 
 - [x] get_citations_needed_report takes in a url and returns a string , the string should be formatted with each citation needed on own line, in order found. Done
+
+
+## The pull requst : https://github.com/shahd1995913/web_scraper/pull/1
